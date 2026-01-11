@@ -30,14 +30,3 @@ The GitHub Repository Data Collector is a simple Python-based backend utility th
 
 ---
 
-## 🚀 How to Run the Project
-
-### 1️⃣ Prerequisites
-- Python 3.x
-- MongoDB (running locally)
-- Required Python packages
-
-Install dependencies:
-```bash
-pip install requests pymongo
-
