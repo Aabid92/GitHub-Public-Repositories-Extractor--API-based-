@@ -1,6 +1,5 @@
 # GitHub Public Repositories Extractor (API-based)
 
-# GitHub Repository Data Collector
 
 ## 📌 Overview
 The GitHub Repository Data Collector is a simple Python-based backend utility that fetches public repository data for a given GitHub user using the GitHub REST API and stores the extracted information in MongoDB. The project demonstrates core Python development skills such as API consumption, JSON data handling, error handling, and database interaction.
@@ -28,4 +27,17 @@ The GitHub Repository Data Collector is a simple Python-based backend utility th
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🚀 How to Run the Project
+
+### 1️⃣ Prerequisites
+- Python 3.x
+- MongoDB (running locally)
+- Required Python packages
+
+Install dependencies:
+```bash
+pip install requests pymongo
+
